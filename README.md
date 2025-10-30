@@ -1,0 +1,27 @@
+### Hey, I'm Inimai 👋
+
+I'm a 2nd-year Computer Science student who loves coding in **Java** and building simple **Java GUI** projects.  
+Currently learning **HTML**, **CSS**, and **JavaScript** to get better at web development.  
+I also enjoy solving problems on CodeChef and LeetCode!
+
+---
+
+**My Profiles:**  
+- [LeetCode](https://leetcode.com/u/inimai/)  
+- [CodeChef](https://www.codechef.com/users/fishon_plate)
+
+
+<!--
+**inimai09/inimai09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
