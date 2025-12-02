@@ -1,7 +1,6 @@
 ### Hey, I'm Inimai 👋
 
-I'm a 2nd-year Computer Science student who loves coding in **Java** and building simple **Java GUI** projects.  
-Currently learning **HTML**, **CSS**, and **JavaScript** to get better at web development.  
+I'm a 2nd-year Computer Science student who loves coding in **Java** and building  **Java** projects.   
 I also enjoy solving problems on CodeChef and LeetCode!
 ----------------------------------------------------------------------------------------------------------------
 
