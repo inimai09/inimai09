@@ -1,6 +1,6 @@
 ### Hey, I'm Inimai 👋
 
-I'm a 2nd-year Computer Science student who loves coding in **Java** and building  **Java** projects.   
+I'm a 2nd-year Computer Science student who loves coding and building projects, i like to learn new stuff.   
 I also enjoy solving problems on CodeChef and LeetCode!
 ----------------------------------------------------------------------------------------------------------------
 
