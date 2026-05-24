@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p>
+<p align = "center">
   💻 2nd Year Computer Science Student <br>
   🚀 Loves Coding, Building Projects & Learning New Things <br>
   🧠 Solving Problems on LeetCode & CodeChef
