@@ -5,8 +5,6 @@
 
 <h3 align = "center">
   💻 2nd Year Computer Science Student <br>
-  <img src="<img width="315" height="280" alt="pixel-cat" src="https://github.com/user-attachments/assets/6de0ced1-cf5a-4ece-82d1-42c8d7ddf6c1" />
-" width="30">
   🚀 Loves Coding, Building Projects & Learning New Things <br>
   🧠 Solving Problems on LeetCode & CodeChef
 </h3>
