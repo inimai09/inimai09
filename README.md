@@ -1,12 +1,30 @@
-### Hey, I'm Inimai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">
+  Hey, I'm Inimai 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-I'm a 2nd-year Computer Science student who loves coding and building projects, i like to learn new stuff.   
-I also enjoy solving problems on CodeChef and LeetCode!
-----------------------------------------------------------------------------------------------------------------
+<p align="center">
+  💻 2nd Year Computer Science Student <br>
+  🚀 Loves Coding, Building Projects & Learning New Things <br>
+  🧠 Solving Problems on LeetCode & CodeChef
+</p>
 
-**My Profiles:**  
-- [LeetCode](https://leetcode.com/u/inimai/)  
-- [CodeChef](https://www.codechef.com/users/fishon_plate)
+---
+
+## 🌐 My Profiles
+
+<p align="left">
+  🔗 <b>LeetCode:</b> <br>
+  https://leetcode.com/u/inimai/
+</p>
+
+<p align="left">
+  🔗 <b>CodeChef:</b> <br>
+  https://www.codechef.com/users/fishon_plate
+</p>
+
+---
+
 
 
 <!--
