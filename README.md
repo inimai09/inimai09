@@ -1,4 +1,4 @@
-### Hey, I'm Inimai 👋
+### Hey, I'm Inimai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 I'm a 2nd-year Computer Science student who loves coding and building projects, i like to learn new stuff.   
 I also enjoy solving problems on CodeChef and LeetCode!
