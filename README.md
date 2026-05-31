@@ -9,11 +9,11 @@
 
 <br>
 
-<p align="center">
+<h2 align="center">
   I'm a 2nd-year Computer Science student who loves coding and building projects.<br>
   I like learning new stuff.<br>
   I also enjoy solving problems on CodeChef and LeetCode!
-</p>
+</h2>
 
 ---
 
