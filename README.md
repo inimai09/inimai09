@@ -10,7 +10,7 @@
 <br>
 
 <h2 align="center">
-  I'm a 3nd-year Computer Science student who loves coding and building projects.<br>
+  I'm a 3rd-year Computer Science student who loves coding and building projects.<br>
   I like learning new stuff.<br>
   I also enjoy solving problems on CodeChef and LeetCode!
 </h2>
